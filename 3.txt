@@ -1,5 +1,0 @@
-This is my code
-
-This is a branch dev1
-Hello I'm merging
-This is branch develop
